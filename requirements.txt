@@ -1,0 +1,7 @@
+pandas 
+numpy
+tensorflow
+python-dotenv
+matplotlib
+tensorflow_datasets
+datasets
